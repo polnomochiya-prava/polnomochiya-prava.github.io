@@ -1,8 +1,8 @@
 #theme:
-title: `Web Traff` main website
-description: `Web Traff` main website
-url: https://web-traff.github.io
-author: webtraff
+title: Полномочия права
+description: Полномочия права
+url: https://polnomochiya-prava.github.io
+author: polnomochiyaprava
 google_analytics: UA-212345165-1
 plugins:  
   - jekyll-seo-tag
